@@ -3,13 +3,14 @@
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/KaveeshaPiumini/KaveeshaPiumini/master/assets/profile.gif" 
          alt="greeting gif"
-         height="45"
-         width="45" />
+         height="600"
+         width="600" />
 </h1>
 
 ## About Me
 - 😄 I'm Piumini Kaveesha Ranasinghe
 - 🎓 I'm currently an undergraduate at Department of Computer Science and Engineering, University of Moratuwa
+- 🙋 I'm interested in full stack development and networking
 - 📈 I'm a fast learner as well as a self learner
 - 👩‍💻 I have high adaptability skills, good communication skills team working skills, multitasking skills, working under pressure skills
 
