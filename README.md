@@ -1,7 +1,7 @@
 ### Hi there! I'm Piumini Kaveesha Ranasinghe 👋
 
-![GitHub followers](https://img.shields.io/github/followers/banulakumarage?label=Followers&logo=GitHub)
-![](https://komarev.com/ghpvc/?username=banulakumarage&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/KaveeshaPiumini?label=Followers&logo=GitHub)
+![](https://komarev.com/ghpvc/?username=KaveeshaPiumini&color=blue)
 
 <!--
 **KaveeshaPiumini/KaveeshaPiumini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
