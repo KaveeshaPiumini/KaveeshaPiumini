@@ -1,4 +1,6 @@
+<div align="center">
 ### Hi there!👋
+</div>
 
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/KaveeshaPiumini/KaveeshaPiumini/master/assets/profile.gif" 
@@ -22,7 +24,7 @@
       <img src = "https://github-readme-stats.vercel.app/api?username=KaveeshaPiumini&show_icons=true&line_height=27count_private=true&theme=github_dark&include_all_commits=true&count_private=true" style="  max-width: 100%; height: auto;">
     </div>
     <div style="display: block;">
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaPiumini&layout=default&theme=github_dark" style="  max-width: 100%; height: 209px; margin-left:5px;">
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaPiumini&layout=compact&theme=github_dark" style="  max-width: 100%; height: 209px; margin-left:5px;">
     </div>
   </div>
 </div>
