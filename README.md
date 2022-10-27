@@ -1,6 +1,6 @@
-<div align="center">
-### Hi there!👋
-</div>
+<h1 align="center">
+Hi there!👋
+</h1>
 
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/KaveeshaPiumini/KaveeshaPiumini/master/assets/profile.gif" 
@@ -15,6 +15,23 @@
 - 🙋 I'm interested in full stack development and networking
 - 📈 I'm a fast learner as well as a self learner
 - 👩‍💻 I have high adaptability skills, good communication skills team working skills, multitasking skills, working under pressure skills
+
+### Top Repositories
+
+<p float="left">
+<a href="https://github.com/SEP-22/Client">
+  <img style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEP-22&repo=Client&theme=github_dark" />
+</a>
+<a href="https://github.com/SEP-22/Server">
+  <img style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEP-22&repo=Server&theme=github_dark" />
+</a>
+<a href="https://github.com/G-16-SE/suppliermanagementsystem">
+  <img style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-16-SE&repo=suppliermanagementsystem&theme=github_dark" />
+</a>
+<a href="https://github.com/DBMS-404/Supply-Chain-Management-System">
+  <img style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DBMS-404&repo=Supply-Chain-Management-System&theme=github_dark" />
+</a>
+</p>
 
 ## Github Statistics
 
