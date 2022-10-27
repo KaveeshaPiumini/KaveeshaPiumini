@@ -1,7 +1,17 @@
 ### Hi there! I'm Piumini Kaveesha Ranasinghe 👋
 
-![GitHub followers](https://img.shields.io/github/followers/KaveeshaPiumini?label=Followers&logo=GitHub)
-![](https://komarev.com/ghpvc/?username=KaveeshaPiumini&color=blue)
+## Github Statistics
+
+<div style="max-width: 1050px; margin: 8px auto 10px auto;">
+  <div>
+    <div style="display: inline;">
+      <img src = "https://github-readme-stats.vercel.app/api?username=KaveeshaPiumini&show_icons=true&line_height=27count_private=true&theme=dracula" style="  max-width: 100%; height: auto;">
+    </div>
+    <div style="display: inline;">
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaPiumini&layout=compact&theme=dracula" style="  max-width: 100%; height: 209px; margin-left:5px;">
+    </div>
+  </div>
+</div>
 
 <!--
 **KaveeshaPiumini/KaveeshaPiumini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
