@@ -4,11 +4,11 @@
 
 <div style="max-width: 1050px; margin: 8px auto 10px auto;">
   <div>
-    <div style="display: inline;">
-      <img src = "https://github-readme-stats.vercel.app/api?username=KaveeshaPiumini&show_icons=true&line_height=27count_private=true&theme=dracula" style="  max-width: 100%; height: auto;">
+    <div style="display: block;">
+      <img src = "https://github-readme-stats.vercel.app/api?username=KaveeshaPiumini&show_icons=true&line_height=27count_private=true&theme=github_dark" style="  max-width: 100%; height: auto;">
     </div>
-    <div style="display: inline;">
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaPiumini&layout=compact&theme=dracula" style="  max-width: 100%; height: 209px; margin-left:5px;">
+    <div style="display: block;">
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaPiumini&layout=compact&theme=github_dark" style="  max-width: 100%; height: 209px; margin-left:5px;">
     </div>
   </div>
 </div>
