@@ -16,7 +16,8 @@ Hi there!👋
 - 📈 I'm a fast learner as well as a self learner
 - 👩‍💻 I have high adaptability skills, good communication skills team working skills, multitasking skills, working under pressure skills
 
-### Top Repositories
+
+## Top Repositories
 
 <p float="left">
 <a href="https://github.com/SEP-22/Client">
@@ -33,6 +34,7 @@ Hi there!👋
 </a>
 </p>
 
+
 ## Github Statistics
 
 <div style="max-width: 1050px; margin: 8px auto 10px auto;">
@@ -45,6 +47,7 @@ Hi there!👋
     </div>
   </div>
 </div>
+
 
 <!--
 **KaveeshaPiumini/KaveeshaPiumini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
