@@ -5,8 +5,8 @@ Hi there!👋
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/KaveeshaPiumini/KaveeshaPiumini/master/assets/profile.gif" 
          alt="greeting gif"
-         height="600"
-         width="600" />
+         height="400"
+         width="400" />
 </h1>
 
 ## About Me
