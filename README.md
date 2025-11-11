@@ -11,7 +11,8 @@ Hi there!👋
 
 ## About Me
 - 😄 I'm Piumini Kaveesha Ranasinghe
-- 🎓 I'm currently an undergraduate at Department of Computer Science and Engineering, University of Moratuwa
+- 👩🏻‍💻 I'm currently working as a Software Engineer at WSO2
+- 🎓 I'm a graduate from Department of Computer Science and Engineering, University of Moratuwa
 - 🙋 I'm interested in full stack development
 - 📈 I'm a fast learner as well as a self learner
 - 👩‍💻 I have high adaptability skills, good communication skills team working skills, multitasking skills, working under pressure skills
