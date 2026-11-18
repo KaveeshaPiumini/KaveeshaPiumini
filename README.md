@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Piumini%20Ranasinghe&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer%20%40%20WSO2%20%E2%80%A2%20Identity%20%26%20Access%20Management&descSize=16&descAlignY=60" width="100%" alt="Piumini Ranasinghe" />
+<img src="assets/banner.svg" width="100%" alt="Piumini Ranasinghe, Senior Software Engineer at WSO2" />
 
 <a href="https://github.com/KaveeshaPiumini">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9FAF&center=true&vCenter=true&width=620&lines=Building+open-source+identity+with+ThunderID;Securing+WSO2+Identity+Server;Machine+learning+for+low-power+edge+devices" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9FAF&center=true&vCenter=true&width=700&lines=Building+open-source+identity+with+ThunderID;Securing+WSO2+Identity+Server;Machine+learning+for+low-power+edge+devices" alt="Typing intro" />
 </a>
 
 <p>
@@ -84,8 +84,7 @@ A machine learning system that detects environmental threats in resource-constra
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KaveeshaPiumini&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=KaveeshaPiumini&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=KaveeshaPiumini&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <div align="center">
